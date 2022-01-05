@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ikgonzal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ikgonzal/ikgonzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ikgonzal, entrepreneur and co-founder of a small business consulting firm. 
+- 👀 I’m interested in using code to creativile develop solutions to real-life problems.
+- 🌱 I’m currently learning C programming at 42 and JavaScript on my own.
+- 💞️ I’m looking to collaborate on any project with proven social as well as economic impact.
+- 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/ target=_blank"> my profile.</a>
