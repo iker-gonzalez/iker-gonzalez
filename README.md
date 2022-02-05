@@ -18,5 +18,5 @@
 ---
 
 <h3 align="center">
-	Show some ❤️ by starring my repositories!
+	Feel welcome to ❤️ my repositories!
 </h3>
