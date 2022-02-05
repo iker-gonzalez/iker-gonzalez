@@ -24,7 +24,7 @@
 
 ---
 
-| [![iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![iker's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
+| [![iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=duefy)](https://github.com/appinha?tab=repositories) | [![iker's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
