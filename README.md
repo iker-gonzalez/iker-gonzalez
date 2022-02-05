@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on any project with proven social as well as economic impact.
 - 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/ target=_blank"> my profile.</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&theme=duefy&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
 	<a href="mailto:ikgonzal@aiagasesores.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
