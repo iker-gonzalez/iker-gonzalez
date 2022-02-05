@@ -16,7 +16,3 @@
 </p>
 
 ---
-
-<h3 align="center">
-	Feel welcome to ❤️ my repositories!
-</h3>
