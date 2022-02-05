@@ -10,7 +10,7 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="iker's visitors" src="https://komarev.com/ghpvc/?username=iker-gonzalez&color=8c36db&style=flat&label=visitors" />
+	<img alt="iker's visitors" src="https://komarev.com/ghpvc/?username=iker-gonzalez&color=red&style=flat&label=visitors" />
 	<img alt="iker's followers" src="https://img.shields.io/github/followers/iker-gonzalez?color=blu" />
 	<img alt="iker's stars" src="https://img.shields.io/github/stars/iker-gonzalez?color=blue" />
 </p>
