@@ -6,11 +6,11 @@
 
 <p align="center">
 	<a href="mailto:ikgonzal@aiagasesores.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ikgonzal@aiagasesores.com" />
 	</a>
 	<span> * </span>
 	<a href="mailto:ikgonzal@aiagasesores.com">
-		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-white?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ikgonzal@aiagasesores.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/appinha/">
