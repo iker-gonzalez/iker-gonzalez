@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Iker, entrepreneur and software engineer looking to join a purpose-led organization. 
-- 👀 I’m interested in using code to creatively develop solutions to real-life problems.
-- 🌱 I’m currently learning C++ programming at 42 and JavaScript on my own time.
-- 💞️ I’m looking to collaborate on any project with proven social as well as economic impact.
+- 👋 Hi, I’m Iker, entrepreneur and software engineer at 42.
+- 💞 I’m looking to join a purpose-led organization on any project with proven social as well as economic impact.
 - 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/"> my profile.</a>
 - 💻 Or visit my <a href="https://www.ikergonzalez.dev/"> portfolio</a> to check the most recent projects I've been working on.
 
 ---
+
+##Skills
+
+---
+
+- C/C++, JavaScript
+- Git, Linux
+- SCRUM
 
 | [![iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) | [![iker's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&layout=compact&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) |
 |:-:|:-:|
