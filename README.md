@@ -5,8 +5,6 @@
 - 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/"> my profile.</a>
 - 💻 Or visit my <a href="https://www.ikergonzalez.dev/"> portfolio</a> to check the most recent projects I've been working on.
 
----
-
 ## Skills
 
 - HTML5, CSS3
