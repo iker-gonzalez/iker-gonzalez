@@ -2,8 +2,8 @@
 - 👀 I’m interested in using code to creatively develop solutions to real-life problems.
 - 🌱 I’m currently learning C++ programming at 42 and JavaScript on my own time.
 - 💞️ I’m looking to collaborate on any project with proven social as well as economic impact.
-- 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/ target=_blank"> my profile.</a>
-- 💻 Or visit my <a href="https://www.ikergonzalez.dev/ target=_blank"> portfolio</a> to check the most recent projects I've been working on.
+- 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/"> my profile.</a>
+- 💻 Or visit my <a href="https://www.ikergonzalez.dev/"> portfolio</a> to check the most recent projects I've been working on.
 
 ---
 
