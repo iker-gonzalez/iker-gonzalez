@@ -5,10 +5,11 @@
 
 ---
 
-##Skills
+## Skills
 
 ---
 
+- HTML5, CSS3
 - C/C++, JavaScript
 - Git, Linux
 - SCRUM
