@@ -9,7 +9,7 @@
 
 ##### BIO
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
-- 💘 As part of this role, I found my real passion in software development.
+- 💘 While on this role, I found my real passion in software development.
 - ⚙️ My tech stack: `C`, `C++`, `HTML`, `CSS`, `JavaScript`
 - 🎿 Other skills: `Git`, `Linux`, `SCRUM`
 - 📖 Graduated in Law & Economics with a Master's in Digital Innovation and Management.
