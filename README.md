@@ -12,7 +12,7 @@
 - 💘 As part of this role, I found my real passion in software development.
 - ⚙️ My tech stack: `C`, `C++`, `HTML`, `CSS`, `JavaScript`
 - 🎿 Other skills: `Git`, `Linux`, `SCRUM`
-- 📖 Graduated in Law & Economics with a postgraduate in Digital Innovation.
+- 📖 Graduated in Law & Economics with a Master's in Digital Innovation and Management.
 - 🌱 Interested on contributing to **Open Source**
 - 💬 Ping me about **entrepreneurship**, **development**, **design thinking**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/)
