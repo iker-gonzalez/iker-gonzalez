@@ -1,16 +1,22 @@
-## Welcome to my profile!
+### Hi there 👋
 
-- 👋 Hi, I’m Iker, entrepreneur and software engineering student at 42.
-- 💼 I’m currently looking to join a purpose-led organization where I can grow and thrive as a software developer.
-- 📫 You can reach me via LinkedIn at <a href="https://www.linkedin.com/in/ikgonzal/"> my profile.</a>
-- 💻 Or visit my <a href="https://www.ikergonzalez.dev/"> portfolio</a> to check the most recent projects I've been working on.
+#### I'm an entrepreneur and aspiring software developer student living in Madrid, Spain.
 
-## Skills
+##### NOW
 
-- HTML5, CSS3
-- C/C++, JavaScript
-- Git, Linux
-- SCRUM
+- 💼 Looking to join a purpose-led organization where I can grow and thrive as a **software developer**.
+- 🤓 Software engineering student at [42](https://42.fr/en/homepage/);
+
+##### BIO
+- 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
+- 💘 As part of this role, I found my real passion in software development.
+- ⚙️ My tech stack: `C`, `C++`, `HTML`, `CSS`, `JavaScript`
+- 🎿 Other skills: Git, Linux, SCRUM
+- 📖 Graduated in Law & Economics with a postgraduate in Digital Innovation.
+- 🌱 Interested on contributing to **Open Source**
+- 💬 Ping me about **entrepreneurship**, **development**, **design thinking**
+- 📫 Reach me on [LinkedIn]([https://twitter.com/caneco](https://www.linkedin.com/in/ikgonzal/)) or visit my [Portfolio](https://www.ikergonzalez.dev/)
+- ⚡️ Fun fact: Everyone calls me 'Tiki'(source = NULL)
 
 | [![iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) | [![iker's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&langs_count=16&layout=compact&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) |
 |:-:|:-:|
