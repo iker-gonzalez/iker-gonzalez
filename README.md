@@ -11,7 +11,7 @@
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
 - 💘 While on this role, I found my real passion in software development.
 - ⚙️ My tech stack: `C`, `C++`, `HTML`, `CSS`, `JavaScript`
-- 🎿 Other skills: `Git`, `Linux`, `SCRUM`
+- 🎿 Other skills: `Git`, `Linux`, `SCRUM`, `UML`
 - 📖 Graduated in Law & Economics with a Master's in Digital Innovation and Management.
 - 🌱 Interested on contributing to **Open Source**
 - 💬 Ping me about **entrepreneurship**, **green tech**, **development**, **design thinking**
