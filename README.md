@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 💼 Looking to join a purpose-led organization where I can grow and thrive as a **software developer**.
+- 💼 **Software developer** & **SEO Technical Specialist** at [Reprise Digital](https://reprisedigital.com/)
 - 🤓 Software engineering student at [42](https://42.fr/en/homepage/);
 - 🚀 Working on: [Cub3D](https://github.com/iker-gonzalez/cub3d)
 
