@@ -6,7 +6,7 @@
 
 - 💼 **Developer** & **SEO Technical Specialist** at [Reprise Digital](https://reprisedigital.com/)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/);
-- 🚀 Working on: [Cub3D](https://github.com/iker-gonzalez/cub3d)
+- 🚀 Working on: [ft_containers](https://github.com/iker-gonzalez/ft_containers)
 
 ##### BIO
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
