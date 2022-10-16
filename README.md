@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an entrepreneur and junior software developer living in Madrid, Spain.
+#### I'm an entrepreneur and software developer living in Madrid, Spain.
 
 ##### NOW
 
