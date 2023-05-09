@@ -14,7 +14,7 @@
 - ⚙️ My tech stack: `C`, `C++`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Shell`, `GCP`
 - 🎿 Other skills: `Git`, `Linux`, `SCRUM`, `UML`
 - 🌱 Interested on contributing to **Open Source**
-- 💬 Ping me about **entrepreneurship**, **green tech**, **development**, **automation**
+- 💬 Ping me about **entrepreneurship**, **green tech**, **data engineering**, **automation**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/)
 - ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL)
 
