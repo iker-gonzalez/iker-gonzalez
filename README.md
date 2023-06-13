@@ -12,9 +12,9 @@
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
 - 💘 While on this role, I found my real passion in software development.
 - ⚙️ My tech stack: `C`, `C++`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Shell`, `GCP`
-- 🎿 Other skills: `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`
+- 🎿 Other skills: `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`, `Google Apps Script`
 - 🌱 Interested on contributing to **Open Source**
-- 💬 Ping me about **entrepreneurship**, **green tech**, **data engineering**, **AI**, **ML**, **automation**
+- 💬 Ping me about **entrepreneurship**, **green tech**, **data engineering**, **genAI**, **ML**, **Google Cloud** 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/)
 - ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL)
 
