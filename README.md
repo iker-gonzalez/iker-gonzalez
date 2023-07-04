@@ -6,7 +6,7 @@
 
 - 💼 **Software Developer** & **Tech SEO** at [Reprise Digital](https://reprisedigital.com/)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/);
-- 🚀 Working on: [inception](https://github.com/iker-gonzalez/inception)
+- 🚀 Working on: [inception](https://github.com/iker-gonzalez/inception) && [ft_trascendence](https://github.com/iker-gonzalez/ft_trascendence)
 
 ##### BIO
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
