@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-#### I'm an entrepreneur and software developer currently living in Madrid, Spain.
+#### I'm an entrepreneur and software developer currently based in Madrid, Spain.
 
 ##### NOW
 
 - 💼 **Software Developer** & **Tech SEO** at [Reprise Digital](https://reprisedigital.com/)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/);
 - 🚀 Working on: [inception](https://github.com/iker-gonzalez/inception) && [ft_trascendence](https://github.com/iker-gonzalez/ft_trascendence)
+- [GCP Certified Professional Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
 
 ##### BIO
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
