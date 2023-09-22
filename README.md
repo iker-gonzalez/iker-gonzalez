@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm an entrepreneur and software developer currently based in Madrid, Spain.
+#### My name is Iker and I am currently working remotely for Deutsche Telekom as a Software Architect.
 
 ##### NOW
 
-- 💼 **Software Developer** & **Tech SEO** at [Reprise Digital](https://reprisedigital.com/)
+- 💼 **Software Arquitect** at [Deutsche Telekom](https://www.telekom.com/en)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/);
 - 🚀 Working on: [inception](https://github.com/iker-gonzalez/inception) && [ft_trascendence](https://github.com/iker-gonzalez/ft_trascendence)
 
