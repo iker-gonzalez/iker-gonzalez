@@ -1,6 +1,6 @@
-### Hi there 👋
+### Greetings 👋
 
-**My name is Iker and I am currently working remotely for Deutsche Telekom as a Software Architect.**
+**I'm Iker, a Software Architect on a remote adventure with [Deutsche Telekom](https://www.telekom.com/en).**
 
 #### NOW
 
