@@ -14,7 +14,7 @@
 - 💘 While on this role, I found my real passion in software development.
 - <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/> </a> [GCP Certified Professional Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
 - ⚙️ My tech stack: `C`, `C++`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Shell`, `GCP`
-- 🎿 Other skills: `Docker`, `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`, `Google Apps Script`
+- 🎿 Other skills: `Docker`, `Terraform` `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`, `Google Apps Script`
 - 🌱 Interested on contributing to **Open Source**
 - 💬 Ping me about **entrepreneurship**, **green tech**, **data engineering**, **genAI**, **ML**, **Google Cloud** 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/)
