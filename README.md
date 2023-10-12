@@ -6,7 +6,7 @@
 
 - 💼 **Software Arquitect** at [Deutsche Telekom](https://www.telekom.com/en)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/)
-- 🚀 Working on: [inception](https://github.com/iker-gonzalez/inception) && [ft_trascendence](https://github.com/iker-gonzalez/ft_trascendence)
+- 🚀 Side projects: [inception](https://github.com/iker-gonzalez/inception) && [ft_trascendence](https://github.com/iker-gonzalez/ft_trascendence)
 
 
 #### BIO
