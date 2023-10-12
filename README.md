@@ -23,41 +23,18 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="25" height="25"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="25" height="25"/> </a> 
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d493ce02c2227c94dea2137303d298279ef4bd757c691e009ab991f2c33b0219/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3235353833322f73716c2e737667" alt="sql" width="25" height="25"/> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> 
 </p>
 
 ##### DEVOPS
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a> 
 
-##### GCP
-<a href="https://cloud.google.com/compute" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="compute engine" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Compute/CloudRun.png" alt="cloud run" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/functions" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Compute/CloudFunctions.png" alt="cloud functions" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/sql" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Databases/CloudSQL.png" alt="cloud sql" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/storage" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Storage/CloudStorage.png" alt="cloud sql" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/BigQuery.png" alt="bigquery" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/dataflow" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/CloudDataflow.png" alt="dataflow" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/pubsub" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/CloudPubSub.png" alt="pubsub" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/build" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudBuild.png" alt="cloud build" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/sdk" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudSDK.png" alt="cloud sdk" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/scheduler" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudScheduler.png" alt="cloud scheduler" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/artifact-registry" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/ContainerRegistry.png" alt="container registry" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/apis" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/CloudAPIs.png" alt="cloud apis" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/shell" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/CloudShell.png" alt="cloud shell" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/logging" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/Logging.png" alt="cloud logging" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/monitoring" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/Monitoring.png" alt="cloud monitoring" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/load-balancing" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Networking/CloudLoadBalancing.png" alt="cloud load balancing" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/vpc" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Networking/VirtualPrivateCloud.png" alt="vpc" width="25" height="25"/> </a>
-<a href="https://cloud.google.com/iam" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Security/CloudIAM.png" alt="iam" width="25" height="25"/> </a>
-
-
-- ⚙️ My tech stack: `C`, `C++`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Shell`, `GCP`
-- 🎿 Other skills: `Docker`, `Terraform`, `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`, `Google Apps Script`
-
+##### FULL STACK DEVELOPMENT
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 | [![iker's GitHub stats](https://github-readme-stats.vercel.app/api?username=iker-gonzalez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) | [![iker's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iker-gonzalez&langs_count=16&count_private=true&layout=compact&hide_border=true&theme=duefy)](https://github.com/iker-gonzalez?tab=repositories) |
 |:-:|:-:|
