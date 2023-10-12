@@ -27,7 +27,33 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="25" height="25"/> </a> 
 </p>
 
-##### FULL STACK DEVELOPMENT
+##### DEVOPS
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="25"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
+
+##### GCP
+<a href="https://cloud.google.com/compute" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="compute engine" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Compute/CloudRun.png" alt="cloud run" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/functions" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Compute/CloudFunctions.png" alt="cloud functions" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/sql" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Databases/CloudSQL.png" alt="cloud sql" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/storage" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Storage/CloudStorage.png" alt="cloud sql" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/BigQuery.png" alt="bigquery" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/dataflow" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/CloudDataflow.png" alt="dataflow" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/pubsub" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DataAnalytics/CloudPubSub.png" alt="pubsub" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/build" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudBuild.png" alt="cloud build" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/sdk" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudSDK.png" alt="cloud sdk" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/scheduler" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/CloudScheduler.png" alt="cloud scheduler" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/artifact-registry" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/DeveloperTools/ContainerRegistry.png" alt="container registry" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/apis" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/CloudAPIs.png" alt="cloud apis" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/shell" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/CloudShell.png" alt="cloud shell" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/logging" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/Logging.png" alt="cloud logging" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/monitoring" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/ManagementTools/Monitoring.png" alt="cloud monitoring" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/load-balancing" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Networking/CloudLoadBalancing.png" alt="cloud load balancing" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/vpc" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Networking/VirtualPrivateCloud.png" alt="vpc" width="25" height="25"/> </a>
+<a href="https://cloud.google.com/iam" target="_blank" rel="noreferrer"> <img src="https://github.com/iker-gonzalez/gcp-icons/blob/master/dist/Security/CloudIAM.png" alt="iam" width="25" height="25"/> </a>
+
 
 - ⚙️ My tech stack: `C`, `C++`, `Python`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Shell`, `GCP`
 - 🎿 Other skills: `Docker`, `Terraform`, `Git`, `Linux`, `SCRUM`, `UML`, `BigQuery`, `Google Apps Script`
