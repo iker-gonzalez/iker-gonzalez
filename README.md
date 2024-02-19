@@ -13,7 +13,7 @@
 - 🏢 I co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm.
 - 💘 While on this role, I found my real passion in software development.
 - 🏬 Clients I have worked for: Real Madrid, Johnson & Johnson, Dyson, Legalitas, Renfe, Deutsche Telekom.
-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/> </a> [GCP Certified Professional Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
+- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/> </a> GCP Certified Professional [Cloud Architect](https://google.accredible.com/f7b3a51b-987f-48b5-b44e-96210b398a57) & [Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
 - 🌱 Interested on contributing to **Open Source**
 - 💬 Ping me about **entrepreneurship**, **Big Data**, **genAI**, **Software Architecture**, **Google Cloud** 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/)
