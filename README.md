@@ -6,7 +6,7 @@
 
 - 💼 **Software Arquitect** at [Deutsche Telekom](https://www.telekom.com/en)
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/)
-- 🚀 Side projects: 42 school outer core (Algorithms, AI & Data specialization)
+- 🚀 Side projects: 42 school outer core (Cloud, AI & Data specialization)
 
 
 #### BIO
