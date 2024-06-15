@@ -6,8 +6,6 @@ My name is Iker and I am an experienced professional adept in both technical and
 
 Whether immersed in coding or gathering user requirements, I excel at aligning technical solutions with business needs to drive growth and innovation. 
 
-**I am currently working remotely as a Software Architect with [Deutsche Telekom](https://www.telekom.com/en).**
-
 #### NOW
 
 - 💼 **Software Arquitect** at [Deutsche Telekom](https://www.telekom.com/en)
