@@ -2,7 +2,7 @@
 
 Welcome to my profile. Let me introduce myself. 
 
-My name is Iker and I am an experienced professional adept in both technical and business roles, with a strong focus on delivering business value through strategic use of Big Data, Cloud Computing, DevOps, and IT Architecture. 
+My name is Iker and I am an experienced professional adept in both technical and business roles, with a strong focus on delivering business value through strategic use of **Big Data, Cloud Computing, DevOps, and IT Architecture**. 
 
 Whether immersed in coding or gathering user requirements, I excel at aligning technical solutions with business needs to drive growth and innovation. 
 
