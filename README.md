@@ -23,7 +23,7 @@ Whether immersed in coding or gathering user requirements, I excel at aligning t
 - 🌱 Interested on contributing to **Open Source**.
 - 💬 Ping me about **entrepreneurship**, **Big Data**, **genAI**, **Software Architecture**, **Cloud**, **DevOps**.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ikgonzal/) or visit my [Portfolio](https://www.ikergonzalez.dev/).
-- ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL).
+- ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL)
 
 ##### LANGUAGES
 <p align="left"> 
