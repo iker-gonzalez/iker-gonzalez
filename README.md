@@ -6,6 +6,13 @@ My name is Iker and I am an experienced IT professional with over 6+ years of pr
 
 Whether immersed in coding or gathering user requirements, I excel at aligning technical solutions with business needs to drive growth and innovation. 
 
+### **How to reach me**
+
+<div style='text-align:left'>
+	<a href='https://www.linkedin.com/in/ikgonzal' style='padding: 10px;'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white' height='30'></a>
+	<a href="mailto:ikergpe@gmail.com" style="padding: 10px;"><img alt="ikergpe@gmail.com" src="https://img.shields.io/badge/ikergpe@gmail.com-EA4335.svg?logo=gmail&logoColor=white" height='30'></a>
+</div>
+
 #### NOW
 
 - 💼 **Cloud / Big Data Arquitect** at [Deutsche Telekom](https://www.telekom.com/en)
