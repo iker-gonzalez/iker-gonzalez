@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ### Hi there 👋
 
 Welcome to my profile. Let me introduce myself. 
