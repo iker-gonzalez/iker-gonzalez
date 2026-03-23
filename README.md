@@ -2,7 +2,7 @@
 
 Welcome to my profile. Let me introduce myself.
 
-My name is Iker. I'm a **solopreneur** and software engineer building products at the intersection of **Cloud, AI, and Developer Tools**. With 6+ years of experience in Cloud Architecture and a background spanning both technical and business roles, I now channel that expertise into building and shipping my own products.
+My name is Iker. I'm a **Cloud Architect** and **solopreneur** with 6+ years of experience in **Cloud Architecture, DevOps, Data, and AI**. By day I design scalable cloud solutions; by night I build and ship my own products. Whether working with enterprise clients or bootstrapping a new idea, I thrive at aligning technical solutions with real business needs.
 
 ### **What I'm building**
 
@@ -16,14 +16,16 @@ My name is Iker. I'm a **solopreneur** and software engineer building products a
 	<a href="mailto:ikergpe@gmail.com" style="padding: 10px;"><img alt="ikergpe@gmail.com" src="https://img.shields.io/badge/ikergpe@gmail.com-EA4335.svg?logo=gmail&logoColor=white" height='30'></a>
 </div>
 
-#### BIO
+#### NOW
+- 💼 **Cloud / Big Data Architect** at [Deutsche Telekom](https://www.telekom.com/en)
 - 🚀 **Solopreneur** — building [Antwork](https://antwork.io) and [Mantis](https://mantis.is)
-- 🏢 Previously **Cloud / Big Data Architect** at [Deutsche Telekom](https://www.telekom.com/en)
+
+#### BIO
 - 🏢 Co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/)
 - 🏬 Past clients: Real Madrid, Johnson & Johnson, Dyson, Legalitas, Renfe, Deutsche Telekom
 - <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/> </a> GCP Certified Professional [Cloud Architect](https://google.accredible.com/f7b3a51b-987f-48b5-b44e-96210b398a57) & [Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
-- 💬 Ping me about **solopreneurship**, **AI products**, **Software Architecture**, **Cloud**, **DevOps**
+- 💬 Ping me about **Cloud Architecture**, **solopreneurship**, **AI products**, **Big Data**, **DevOps**
 - ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL)
 
 ##### LANGUAGES
