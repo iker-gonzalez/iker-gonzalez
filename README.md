@@ -6,7 +6,7 @@ My name is Iker. I'm a **Cloud Architect** and **solopreneur** with 6+ years of 
 
 ### **What I'm building**
 
-- 🐜 [**Antwork**](https://antwork.io) — AI-powered productivity and workflow automation
+- 🐜 [**Antwork**](https://antwork.io) — AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
 - 🔍 [**Mantis**](https://mantis.is) — Developer tools built for speed and clarity
 
 ### **How to reach me**
@@ -18,6 +18,7 @@ My name is Iker. I'm a **Cloud Architect** and **solopreneur** with 6+ years of 
 
 #### NOW
 - 💼 **Cloud / Big Data Architect** at [Deutsche Telekom](https://www.telekom.com/en)
+- 🧑‍💻 **Freelance Cloud Architect** — helping companies design and scale their cloud infrastructure
 - 🚀 **Solopreneur** — building [Antwork](https://antwork.io) and [Mantis](https://mantis.is)
 
 #### BIO
