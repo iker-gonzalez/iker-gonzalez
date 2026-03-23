@@ -7,7 +7,7 @@ My name is Iker. I'm a **Cloud Architect** and **solopreneur** with 6+ years of 
 ### **What I'm building**
 
 - 🐜 [**Antwork**](https://antwork.io) — AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
-- 🔍 [**Mantis**](https://mantis.is) — AI agents that research, write, and publish SEO content optimized for Google and AI search engines
+- 🦗 [**Mantis**](https://mantis.is) — AI agents that research, write, and publish SEO content optimized for Google and AI search engines
 
 ### **How to reach me**
 
