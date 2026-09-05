@@ -16,7 +16,7 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 </div>
 
 #### NOW
-- 🧑‍💻 **Freelance Data/Cloud Architect** — helping companies design and scale their data platforms and cloud infrastructure
+- 🧑‍💻 **Freelance Data/Cloud Architect** - helping companies design and scale their data platforms and cloud infrastructure
 - 🚀 **Solopreneur** building [Antwork](https://antwork.io)
 
 #### BIO
