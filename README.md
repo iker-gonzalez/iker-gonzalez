@@ -6,7 +6,7 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 
 ### **What I'm building**
 
-- 🐜 [**Antwork**](https://antwork.io): AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
+- 🐜 [**Antwork**](https://antwork.io) - AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
 
 ### **How to reach me**
 
