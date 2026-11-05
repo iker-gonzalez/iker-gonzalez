@@ -2,7 +2,7 @@
 
 Welcome to my profile. Let me introduce myself.
 
-My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ years of experience in **Data & Cloud Architecture, DevOps and AI**. By day I design scalable data platforms and cloud infrastructure; by night I build and ship my own products. Whether working with enterprise clients or bootstrapping a new idea, I thrive at aligning technical solutions with real business needs.
+My name is Iker. I'm the founder of [**Polynode**](https://polynode.co/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), an open-source studio building agent-native products, and a freelance **Data/Cloud Architect** with 6+ years of experience in **Data & Cloud Architecture, DevOps and AI**. I build products your AI agent can run end to end, and I help companies design and scale their data platforms and cloud infrastructure.
 
 ### **What I'm building**
 
@@ -17,15 +17,18 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 </div>
 
 #### NOW
+- 🚀 **Founder** of [Polynode](https://polynode.co/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), building open-source, agent-native products: [Antwork](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) and [Meerko](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme)
 - 🧑‍💻 **Freelance Data/Cloud Architect** - helping companies design and scale their data platforms and cloud infrastructure
-- 🚀 **Solopreneur** building [Polynode](https://polynode.co/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), an open-source studio for agent-native products ([Antwork](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), [Meerko](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme))
+- 📝 **Building in public** - revenue, traffic and the build log at [ikergonzalez.dev](https://ikergonzalez.dev/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme)
 
 #### BIO
+- 🌍 Open source first: new projects live in the [polynode-co](https://github.com/polynode-co) org
 - 🏢 Co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm
 - 🤓 Lifelong software engineering student at [42](https://42.fr/en/homepage/)
-- 🏬 Past clients I have worked with: Real Madrid, Johnson & Johnson, Dyson, Legalitas, Renfe, Deutsche Telekom
+- 🏬 Past clients I have worked with: Real Madrid, Johnson & Johnson, Roche, Dyson, Legalitas, Renfe, Deutsche Telekom
+- ⭐ **Super Malter** on [Malt](https://www.malt.com), its highest freelance rating
 - <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="18" height="18"/> </a> GCP Certified Professional [Cloud Architect](https://google.accredible.com/f7b3a51b-987f-48b5-b44e-96210b398a57) & [Data Engineer](https://google.accredible.com/a3d13a21-34a0-4b57-850f-a896b57eefa6?key=41a2ac44793edb7afe4ccc8a3ef629cb8d27176fd2cef561102579d3574b872e)
-- 💬 Ping me about **Data & Cloud Architecture**, **solopreneurship**, **AI products**, **Big Data**, **DevOps**
+- 💬 Ping me about **agent-native products**, **open source**, **Data & Cloud Architecture**, **solopreneurship**, **DevOps**
 - ⚡️ Fun fact: Everyone calls me 'Tiki' (source = NULL)
 
 ##### LANGUAGES
