@@ -6,8 +6,8 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 
 ### **What I'm building**
 
-- 🐜 [**Antwork**](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
-- 🦦 [**Meerko**](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - Open-source GTM agent: find leads, enrich them and run cold outreach from your AI agent
+- <img src="assets/antwork.svg" alt="Antwork" width="18" height="18" align="top"> [**Antwork**](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
+- <img src="assets/meerko.svg" alt="Meerko" width="18" height="18" align="top"> [**Meerko**](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - Open-source GTM agent: find leads, enrich them and run cold outreach from your AI agent
 
 ### **How to reach me**
 
