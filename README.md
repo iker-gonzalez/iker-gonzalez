@@ -6,7 +6,8 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 
 ### **What I'm building**
 
-- 🐜 [**Antwork**](https://antwork.io) - AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
+- 🐜 [**Antwork**](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - AI social media agent that learns your brand voice to create, schedule, and publish content across platforms
+- 🦦 [**Meerko**](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme) - Open-source GTM agent: find leads, enrich them and run cold outreach from your AI agent
 
 ### **How to reach me**
 
@@ -17,7 +18,7 @@ My name is Iker. I'm a **Data/Cloud Architect** and **solopreneur** with 6+ year
 
 #### NOW
 - 🧑‍💻 **Freelance Data/Cloud Architect** - helping companies design and scale their data platforms and cloud infrastructure
-- 🚀 **Solopreneur** building [Antwork](https://antwork.io)
+- 🚀 **Solopreneur** building [Polynode](https://polynode.co/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), an open-source studio for agent-native products ([Antwork](https://antwork.io/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme), [Meerko](https://meerko.ai/?utm_source=github&utm_medium=profile&utm_campaign=iker-readme))
 
 #### BIO
 - 🏢 Co-founded [**Aiag Asesores**](https://www.aiagasesores.com/), a tech-centric small business consulting firm
