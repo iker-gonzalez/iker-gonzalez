@@ -3,7 +3,7 @@
 **Contact:** ikergpe@gmail.com
 
 ## Professional Summary
-Founder of Polynode, an open-source studio building agent-native products, and freelance Lead Cloud Architect. Background in technology innovation, digital transformation, and entrepreneurship, with experience leading complex technical projects in cloud, data and AI for clients such as Roche, Deutsche Telekom and the Canary Islands government.
+Founder of Polynode, an open-source studio building agent-native products that also delivers cloud and data architecture consulting. Background in technology innovation, digital transformation, and entrepreneurship, with experience leading complex technical projects in cloud, data and AI for clients such as Roche, Deutsche Telekom and the Canary Islands government.
 
 ## Education
 ### MSc Technology & Innovation Management
@@ -25,14 +25,15 @@ Founder of Polynode, an open-source studio building agent-native products, and f
 - Open-source product studio building agent-native software that users drive from their own AI agent (Claude Code, Cursor, Codex) over MCP, CLI and REST
 - [Antwork](https://antwork.io): AI social media agent that learns a brand's voice to create, schedule and publish content across platforms
 - [Meerko](https://meerko.ai): open-source (AGPL) GTM agent to find leads, enrich them and run cold email from the user's own mailboxes
+- Cloud and data architecture consulting for enterprise clients, delivered through Polynode (see below)
 - Full ownership: product, TypeScript/Next.js/Postgres stack, GCP infrastructure with Terraform, billing, SEO and growth
 
 ### Lead Cloud Architect
-**Malt** | *March 2024 - Current | Freelance*
+**Polynode, via Malt** | *March 2024 - Current | Consulting*
 - Lead Cloud Architect for a multi-million dollar project with the Canary Islands government
 - Project involves Drupal-based applications, data lake, and generative AI integrations in GCP
 - Cloud architecture engagement with Roche
-- Achieved Super Malter status, the highest freelance success rating on the platform
+- Achieved Super Malter status, the highest success rating on Malt
 
 ### Cloud Architect
 **Deutsche Telekom** | *September 2023 - 2025 | Full-time*
