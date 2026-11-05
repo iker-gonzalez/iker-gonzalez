@@ -69,7 +69,6 @@ Founder of Polynode, an open-source studio building agent-native products, and f
 - Agent-native product design
 - Model Context Protocol (MCP) servers
 - Generative AI integrations
-- LLM APIs (Anthropic, OpenAI)
 
 ### Cloud & Infrastructure
 - Amazon Web Services (AWS)
