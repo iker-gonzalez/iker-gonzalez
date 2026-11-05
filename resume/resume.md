@@ -3,7 +3,7 @@
 **Contact:** ikergpe@gmail.com
 
 ## Professional Summary
-Highly skilled Cloud Architect and Software Developer with a diverse background in technology innovation, digital transformation, and entrepreneurship. Experienced in leading complex technical projects across multiple domains with expertise in cloud technologies, software development, and business strategy.
+Founder of Polynode, an open-source studio building agent-native products, and freelance Lead Cloud Architect. Background in technology innovation, digital transformation, and entrepreneurship, with experience leading complex technical projects in cloud, data and AI for clients such as Roche, Deutsche Telekom and the Canary Islands government.
 
 ## Education
 ### MSc Technology & Innovation Management
@@ -20,14 +20,22 @@ Highly skilled Cloud Architect and Software Developer with a diverse background 
 
 ## Professional Experience
 
+### Founder
+**Polynode** | *February 2025 - Current*
+- Open-source product studio building agent-native software that users drive from their own AI agent (Claude Code, Cursor, Codex) over MCP, CLI and REST
+- [Antwork](https://antwork.io): AI social media agent that learns a brand's voice to create, schedule and publish content across platforms
+- [Meerko](https://meerko.ai): open-source (AGPL) GTM agent to find leads, enrich them and run cold email from the user's own mailboxes
+- Full ownership: product, TypeScript/Next.js/Postgres stack, GCP infrastructure with Terraform, billing, SEO and growth
+
 ### Lead Cloud Architect
 **Malt** | *March 2024 - Current | Freelance*
 - Lead Cloud Architect for a multi-million dollar project with the Canary Islands government
 - Project involves Drupal-based applications, data lake, and generative AI integrations in GCP
+- Cloud architecture engagement with Roche
 - Achieved Super Malter status, the highest freelance success rating on the platform
 
 ### Cloud Architect
-**Deutsche Telekom** | *September 2023 - Current | Full-time*
+**Deutsche Telekom** | *September 2023 - 2025 | Full-time*
 - Architecting a big data project in Google Cloud Platform (GCP) for the energy sector
 - Achieved millions of dollars in energy cost savings
 - Deployed infrastructure with Terraform and CI/CD
@@ -56,6 +64,12 @@ Highly skilled Cloud Architect and Software Developer with a diverse background 
   - Team management
 
 ## Technical Skills
+
+### AI & Agents
+- Agent-native product design
+- Model Context Protocol (MCP) servers
+- Generative AI integrations
+- LLM APIs (Anthropic, OpenAI)
 
 ### Cloud & Infrastructure
 - Amazon Web Services (AWS)
@@ -91,6 +105,7 @@ Highly skilled Cloud Architect and Software Developer with a diverse background 
 - Bash
 
 ### Data & Analytics
+- PostgreSQL
 - Data Warehousing
 - Big Data
 - Data Engineering
@@ -105,6 +120,8 @@ Highly skilled Cloud Architect and Software Developer with a diverse background 
 
 ### Web Development
 - React
+- Next.js
+- Node.js
 - Flutter
 - Web Development
 - Back-End Web Development
